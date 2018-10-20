@@ -9,4 +9,4 @@ Practice Repository for learning Web Scraping using Node.js and Puppeteer.js ( f
 1. Screenshot App
 - Screenshot a page using node.js and puppeteer.js( Headless Chrome Library )
 Example - 
-!["Screenshot of my github profile"]('"Screenshot App"/image.png')
+!["Screenshot of my github profile"]('/Screenshot App/image.png')
